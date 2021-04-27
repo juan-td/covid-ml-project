@@ -1,4 +1,4 @@
-# covid-ml-project-lstm
+# covid-ml-project
 **Predicting countries' covid indicators using LSTM RNNs**
 
 Includes preprocessing data from ourworldindata, design and training of an LSTM RNN using tf.keras, and visualization of predicted results. The data is predicted based on 7-day rolling averages of new deaths and cases per million people, territory population and median age
