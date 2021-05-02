@@ -5,3 +5,4 @@ departamentos.csv
 potsgres query and save as csv.ipynb
 Salida_Datos_Abiertos_nuevos_datos.csv
 .vscode/settings.json
+.ipynb_checkpoints/*
