@@ -39,6 +39,7 @@ ___
 - Plot predictions
 
 ### Predict colombian departments COVID-19 indicators
+- The model has never been trained on Colombian department data
 - Import data, preprocess it, choose territory name to predict and plot predictions
 ___
 ## Results and plots
