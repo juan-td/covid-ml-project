@@ -45,8 +45,8 @@ ___
 ![image](https://user-images.githubusercontent.com/82002486/116304867-a44ed800-a768-11eb-8981-64f71d7cdaf6.png)
 ![image](https://user-images.githubusercontent.com/82002486/116304926-b2045d80-a768-11eb-9b6e-0406c959161f.png)
 ![image](https://user-images.githubusercontent.com/82002486/116304957-bb8dc580-a768-11eb-894a-725d232bb471.png)
-![image](https://user-images.githubusercontent.com/82002486/116304996-c5afc400-a768-11eb-9be1-920775e346a6.png)
-![image](https://user-images.githubusercontent.com/82002486/116305021-cea09580-a768-11eb-96dd-9abd61ee9d5a.png)
+![image](https://user-images.githubusercontent.com/82002486/116830146-b4eabe00-ab6d-11eb-969f-1fa62242080c.png)
+![image](https://user-images.githubusercontent.com/82002486/116830155-c03de980-ab6d-11eb-9540-ddbdff0c24df.png)
 ___
 **Juan Andrés Toro**
 
