@@ -43,8 +43,8 @@ ___
 - Import data, preprocess it, choose territory name to predict and plot predictions
 ___
 ## Results and plots
-![image](https://user-images.githubusercontent.com/82002486/116304867-a44ed800-a768-11eb-8981-64f71d7cdaf6.png)
-![image](https://user-images.githubusercontent.com/82002486/116304926-b2045d80-a768-11eb-9b6e-0406c959161f.png)
+![image](https://user-images.githubusercontent.com/82002486/129951045-56523198-d9ba-49a6-80e7-574c43d9d016.png)
+![image](https://user-images.githubusercontent.com/82002486/129951083-c6f10246-dc18-4961-86db-575f9b6e0421.png)
 ![image](https://user-images.githubusercontent.com/82002486/116304957-bb8dc580-a768-11eb-894a-725d232bb471.png)
 ![image](https://user-images.githubusercontent.com/82002486/116830146-b4eabe00-ab6d-11eb-969f-1fa62242080c.png)
 ![image](https://user-images.githubusercontent.com/82002486/116830155-c03de980-ab6d-11eb-9540-ddbdff0c24df.png)
